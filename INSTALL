@@ -1,0 +1,9 @@
+Building Kiwicoin
+
+See doc/readme-qt.rst for instructions on building Kiwicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kiwicoin.
+
+See doc/build-*.txt for instructions on building kiwicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kiwicoin.
