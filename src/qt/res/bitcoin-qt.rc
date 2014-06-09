@@ -21,13 +21,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Kiwicoin"
-            VALUE "FileDescription",    "Kiwicoin-Qt (OSS GUI client for Kiwicoin)"
+            VALUE "FileDescription",    "Kiwicoin (OSS GUI client for Kiwicoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "kiwicoin-qt"
+            VALUE "InternalName",       "Kiwicoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "kiwicoin-qt.exe"
-            VALUE "ProductName",        "Kiwicoin-Qt"
+            VALUE "ProductName",        "Kiwicoin"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
